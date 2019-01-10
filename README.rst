@@ -2,7 +2,7 @@
 Demo API
 ========
 
-:Version: 1.0.1
+:Version: 2.0.0
 :Source: https://github.com/maykinmedia/demo-api
 :Keywords: VNG, VNG-realisatie, demo, api
 
@@ -30,6 +30,7 @@ API versies
 =========== =============== ===================================================
 Versie      Release datum   Opmerkingen
 =========== =============== ===================================================
+`2.0.0`_    2018-06-01      Initiële release van API versie 2
 `1.0.1`_    2017-02-01      Patch release
 `1.0.0`_    2017-01-01      Initiële release van API versie 1
 =========== =============== ===================================================
@@ -61,7 +62,8 @@ datum van de volgende major API versie.
 =========== =============== ===================================================
 Versie      Release datum   Einddatum ondersteuning
 =========== =============== ===================================================
-1.x         2017-01-01
+2.x         2018-06-01
+1.x         2017-01-01      2019-06-01
 =========== =============== ===================================================
 
 
@@ -75,7 +77,7 @@ Referenties
 .. _API component repository: https://github.com/maykinmedia/demo-api-component
 .. _1.0.0: http://rebilly.github.io/ReDoc/?url=https://raw.githubusercontent.com/maykinmedia/demo-api/1.0.0/openapi.yaml
 .. _1.0.1: http://rebilly.github.io/ReDoc/?url=https://raw.githubusercontent.com/maykinmedia/demo-api/1.0.1/openapi.yaml
-
+.. _2.0.0: http://rebilly.github.io/ReDoc/?url=https://raw.githubusercontent.com/maykinmedia/demo-api/2.0.0/openapi.yaml
 
 Licentie
 ========
